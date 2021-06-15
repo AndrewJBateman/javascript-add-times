@@ -1,8 +1,12 @@
 # :zap: Javascript Local Storage
 
 * Wes Bos Youtube Javascript30 tutorial: [How JavaScript's Array Reduce Works - #JavaScript30 18/30](https://www.youtube.com/watch?v=SadWPo2KZWg&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=18).
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-*** Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/javascript-add-times?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/javascript-add-times?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/javascript-add-times?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/javascript-add-times?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -68,6 +72,11 @@ secondsLeft = secondsLeft % 60;
 ## :clap: Inspiration
 
 * Wes Bos Youtube Javascript30 tutorial [How JavaScript's Array Reduce Works - #JavaScript30 18/30](https://www.youtube.com/watch?v=SadWPo2KZWg&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=18)
+
+## :file_folder: License
+
+* N/A
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
