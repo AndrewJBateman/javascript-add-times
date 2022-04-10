@@ -10,14 +10,20 @@
 
 ## :page_facing_up: Table of contents
 
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+
+* [:zap: Javascript Add Times](#zap-javascript-add-times)
+  * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
+  * [:books: General info](#books-general-info)
+  * [:camera: Screenshots](#camera-screenshots)
+  * [:signal_strength: Technologies](#signal_strength-technologies)
+  * [:floppy_disk: Setup](#floppy_disk-setup)
+  * [:wrench: Testing](#wrench-testing)
+  * [:computer: Code Examples](#computer-code-examples)
+  * [:cool: Features](#cool-features)
+  * [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
+  * [:clap: Inspiration](#clap-inspiration)
+  * [:file_folder: License](#file_folder-license)
+  * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
 
@@ -29,7 +35,7 @@
 
 ## :signal_strength: Technologies
 
-* [Javascript v1.9 ECMA-262 ECMAScript 2018](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
+* [Javascript ECMA-262 ECMAScript 2021](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
 
 ## :floppy_disk: Setup
 
@@ -67,7 +73,7 @@ secondsLeft = secondsLeft % 60;
 ## :clipboard: Status & To-Do List
 
 * Status: Working.
-* To-Do: This code can be enhanced with html to show the time values from the javascript calculations.
+* To-Do: This code can be enhanced with HTML to show the time values from the javascript calculations.
 
 ## :clap: Inspiration
 
